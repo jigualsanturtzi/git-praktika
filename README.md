@@ -4,7 +4,7 @@
 
 **Web Aplikazioen Hedapena** moduluko praktika,  
 
-[CIFP Santurtzi LHII](https://www.fpsanturtzilh.eus/) zentroan egina.
+[CIFP Santurtzi LHII](https://www.fpsanturtzilh.eus/) zentroan egina, DAW moduluaren barruan.
 
 
 
